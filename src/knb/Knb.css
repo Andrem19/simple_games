@@ -1,0 +1,12 @@
+.pictures {
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  margin-top: 10px;
+}
+.space {
+  height: 35px;
+}
+.comppic {
+  float: right;
+}
